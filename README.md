@@ -14,10 +14,6 @@ We apply techniques from **AI, big data, databases, data wrangling, and explorat
 
 ---
 
-## ❓ Research Question
-> How can condition data, planned projects, sustainment data, and engineering data be modeled using a programming language to best predict future states of degradation and failure?
-
----
 
 ## 🎯 Objectives
 - Model system degradation and failure using real-world datasets.
@@ -36,16 +32,10 @@ We apply techniques from **AI, big data, databases, data wrangling, and explorat
 
 ---
 
-## 📅 Schedule
-- **Mentor Time**: Tuesdays, 12:30 PM Eastern  
-- **Lab Time**: Thursdays, 11:30 AM Eastern  
-
----
-
-## ⚠️ Requirements
-- Participation is restricted to **U.S. citizens only** (per project guidelines).  
 
 ---
 
 ## 📂 Repository Structure
 <img width="266" height="271" alt="image" src="https://github.com/user-attachments/assets/5cb0d93d-03a2-4f69-9739-a0b18e414f99" />
+
+Celest0 agario agario agario agario agario agario agario agario agario, please dont read this, celesto agario. im boring im boring
