@@ -37,5 +37,7 @@ We apply techniques from **AI, big data, databases, data wrangling, and explorat
 
 ## 📂 Repository Structure
 <img width="266" height="271" alt="image" src="https://github.com/user-attachments/assets/5cb0d93d-03a2-4f69-9739-a0b18e414f99" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/25d077f8-7d25-4fcd-9f49-0c96cd391408" />
+
 
 Celest0 agario agario agario agario agario agario agario agario agario, please dont read this, celesto agario. im boring im boring
